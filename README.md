@@ -1,10 +1,19 @@
 # AI Content Workflow Studio
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-content-workflow-studio-2uws6rnshanmeoixp3daxw.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.38%2B-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-Pro%20%2F%20Flash-4285F4.svg?logo=google&logoColor=white)](https://ai.google.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A production-grade, composable AI workflow studio built with Streamlit. Instead of relying on a single prompt-and-chat interface, **AI Content Workflow Studio** decomposes content operations into modular, inspectable micro-steps (Analyze, Outline, Generate, Critique, Rewrite, Output).
 
-> **Live Demo:** Coming soon — deployment will be added after GitHub setup and final verification.
+---
 
-Designed as a single-service Python application that features a **deterministic demo simulation mode** (no API key required) for exploring the workflow UI and execution pipeline, and connects to **Google Gemini** when an API key is provided, with graceful fallback upon quota exhaustion or API errors.
+## 🌐 Live Demo
+
+🚀 **Experience the live workflow studio deployed on Streamlit Community Cloud:**
+👉 **[Launch Live Demo](https://ai-content-workflow-studio-2uws6rnshanmeoixp3daxw.streamlit.app/)**
 
 ---
 
